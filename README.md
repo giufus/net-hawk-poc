@@ -1,5 +1,7 @@
 ## My Python Networking playground
 
+[![Poetry](https://github.com/giufus/net-hawk-poc/actions/workflows/main.yml/badge.svg)](https://github.com/giufus/net-hawk-poc/actions/workflows/main.yml) 
+
 Testing libraries, protocols and others (NETCONF, RESTCONF, gNMI, etc.)
 
 The project includes some libraries I usually like:  
